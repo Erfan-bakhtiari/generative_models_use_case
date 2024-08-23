@@ -9,8 +9,8 @@ target_url = "https://klu.ai/llm-leaderboard"
 target_selector = ["body > div > div > main > div > div > div:nth-child(1) > div:nth-child(3) > div.mt-4 > table"
                        ,"body > div > div > main > div > div > div:nth-child(1) > div:nth-child(7) > div > div > table"]
 target_labels = ["useCase", "price"]
-model_api_key="aa-gegZy5BlBGE4EGNtL8h5iSuAHBtck3M7LYp4pAwf4XkThmY1"
-model_base_url="https://api.avalai.ir/v1"
+model_api_key=""
+model_base_url=""
 model="gpt-4o-mini-2024-07-18"
 target_result_container = {}
 file_path = 'data.json'
