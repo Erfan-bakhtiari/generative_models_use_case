@@ -1,0 +1,217 @@
+[
+    {
+        "model": "GPT-4 Turbo (0409)",
+        "case": "Code & Reasoning",
+        "price": "15"
+    },
+    {
+        "model": "GPT-4 Omni (0807)",
+        "case": "AI Applications",
+        "price": "4.16"
+    },
+    {
+        "model": "GPT-4 Omni Mini (0718)",
+        "case": "unknow",
+        "price": "0.26"
+    },
+    {
+        "model": "GPT-4 32k (0314)",
+        "case": "unknow",
+        "price": "75"
+    },
+    {
+        "model": "GPT-4 (0613)",
+        "case": "unknow",
+        "price": "37.50"
+    },
+    {
+        "model": "GPT-4 Vision (1106)",
+        "case": "unknow",
+        "price": "15"
+    },
+    {
+        "model": "GPT-3.5 Turbo",
+        "case": "unknow",
+        "price": "0.75"
+    },
+    {
+        "model": "GPT-3.5 Turbo Instruct",
+        "case": "unknow",
+        "price": "1.63"
+    },
+    {
+        "model": "GPT-4 Vision Preview (1106)",
+        "case": "unknow",
+        "price": "15"
+    },
+    {
+        "model": "GPT-4 Turbo Preview (1106)",
+        "case": "unknow",
+        "price": "15"
+    },
+    {
+        "model": "GPT-4 Omni (0513)",
+        "case": "unknow",
+        "price": "7.50"
+    },
+    {
+        "model": "Llama 3.1 405B",
+        "case": "unknow",
+        "price": "7.99"
+    },
+    {
+        "model": "Llama 3.1 70B",
+        "case": "unknow",
+        "price": "1.29"
+    },
+    {
+        "model": "Llama 3.1 8B",
+        "case": "unknow",
+        "price": "0.30"
+    },
+    {
+        "model": "Mistral Large 2 (0724)",
+        "case": "unknow",
+        "price": "4.5"
+    },
+    {
+        "model": "Mistral Nemo 12B",
+        "case": "unknow",
+        "price": "0.30"
+    },
+    {
+        "model": "Mistral Large",
+        "case": "unknow",
+        "price": "12"
+    },
+    {
+        "model": "Mistral Medium",
+        "case": "unknow",
+        "price": "4.05"
+    },
+    {
+        "model": "Mixtral 8x22B",
+        "case": "unknow",
+        "price": "1.20"
+    },
+    {
+        "model": "Mistral 8x7B",
+        "case": "unknow",
+        "price": "0.50"
+    },
+    {
+        "model": "Mistral Small",
+        "case": "unknow",
+        "price": "3"
+    },
+    {
+        "model": "Mistral 7B",
+        "case": "unknow",
+        "price": "0.15"
+    },
+    {
+        "model": "Sonar Large",
+        "case": "unknow",
+        "price": "1"
+    },
+    {
+        "model": "Sonar Small",
+        "case": "unknow",
+        "price": "0.02"
+    },
+    {
+        "model": "Command R+",
+        "case": "unknow",
+        "price": "6"
+    },
+    {
+        "model": "Command R",
+        "case": "unknow",
+        "price": "0.75"
+    },
+    {
+        "model": "Claude Instant",
+        "case": "unknow",
+        "price": "1.90"
+    },
+    {
+        "model": "Claude 2.1",
+        "case": "unknow",
+        "price": "12"
+    },
+    {
+        "model": "Claude 3 Haiku",
+        "case": "unknow",
+        "price": "0.50"
+    },
+    {
+        "model": "Claude 3 Sonnet",
+        "case": "Chat & Vision",
+        "price": "6"
+    },
+    {
+        "model": "Claude 3.5 Sonnet",
+        "case": "Chat & Vision",
+        "price": "6"
+    },
+    {
+        "model": "Claude 3 Opus",
+        "case": "Creative Content",
+        "price": "30"
+    },
+    {
+        "model": "Gemma 2 9B",
+        "case": "unknow",
+        "price": "0.20"
+    },
+    {
+        "model": "Llama 3.1 8B",
+        "case": "unknow",
+        "price": "0.30"
+    },
+    {
+        "model": "Llama 3.1 70B",
+        "case": "unknow",
+        "price": "1.29"
+    },
+    {
+        "model": "Gemma 7B",
+        "case": "unknow",
+        "price": "0.15"
+    },
+    {
+        "model": "Llama 3 70B",
+        "case": "unknow",
+        "price": "0.64"
+    },
+    {
+        "model": "Llama 3 8B",
+        "case": "unknow",
+        "price": "0.06"
+    },
+    {
+        "model": "Mixtral 8x7B",
+        "case": "unknow",
+        "price": "0.24"
+    },
+    {
+        "model": "Gemini Pro 1.5",
+        "case": "Reward Model",
+        "price": "1.25"
+    },
+    {
+        "model": "Gemini Flash 1.5",
+        "case": "Data Labeling",
+        "price": "1.25"
+    },
+    {
+        "model": "Gemma 2 27B",
+        "case": "unknow",
+        "price": "0.30"
+    },
+    {
+        "model": "Gemma 2 8B",
+        "case": "unknow",
+        "price": "0.20"
+    }
+]
